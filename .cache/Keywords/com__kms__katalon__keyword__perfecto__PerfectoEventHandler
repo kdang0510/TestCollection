@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A330BE42090CDDCF1D5A2A310FE9B62B",
+  "keywordClasses": [
+    {
+      "name": "com.kms.katalon.keyword.perfecto.PerfectoEventHandler",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

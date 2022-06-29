@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9FC99318D6AA2AC620348F19DA80DCD6",
+  "keywordClasses": [
+    {
+      "name": "com.kms.katalon.keyword.perfecto.PerfectoDriverManager",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
