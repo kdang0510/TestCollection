@@ -67,7 +67,6 @@ import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 import com.kms.katalon.core.appium.driver.AppiumDriverManager
 import com.kms.katalon.core.mobile.driver.MobileDriverType
-import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver
